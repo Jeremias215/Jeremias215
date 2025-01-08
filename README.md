@@ -1,15 +1,58 @@
-<h1>Hi, I'm Jeremias! Passionate Cybersecurity Analyst</h1>
+# Hello, I'm Jeremias
 
-<h2>👨‍💻 My Projects:</h2>
+I am a dedicated cybersecurity enthusiast driven by a commitment to protecting digital assets and mitigating threats. With practical experience using tools like Splunk, Nessus, Wireshark, and OpenVAS, I have developed a strong technical foundation in threat detection, log analysis, and vulnerability management. I am eager to bring my skills and passion for problem-solving to a Security Operations Center (SOC) Analyst role, where I can contribute to safeguarding organizational systems and data.
 
-- <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Jeremias215/Azure-SOC)
+---
 
-<h2> 🤳 Connect with me:</h2>
- 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- 
- 
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Objective  
+To leverage my expertise in threat detection, incident response, and SOC workflows to secure a Tier 1 SOC Analyst position, contributing to a dynamic team while advancing my knowledge and skills in cybersecurity.
+
+---
+
+## Skills
+
+| **Skill**                                  | **Associated Project**                          |
+|--------------------------------------------|------------------------------------------------|
+| [Creating a Live SOC / Honeynet in Azure   | (https://github.com/Jeremias215/Azure-SOC)     |
+| Threat Detection and Response              | [Project Name/Details Placeholder]             |
+| Network Traffic Analysis                   | [Project Name/Details Placeholder]             |
+| Vulnerability Scanning and Mitigation      | [Project Name/Details Placeholder]             |
+| Scripting and Automation for Threat Hunting| [Project Name/Details Placeholder]             |
+
+---
+
+## Tools
+
+### Network  
+- Wireshark  
+- Nmap  
+
+### Endpoint  
+- OpenVAS  
+- Nessus  
+
+### SIEM  
+- Splunk  
+- Microsoft Sentinel  
+
+---
+
+## Certifications
+- **CompTIA Security+**  
+- **CompTIA Network+**  
+- **Google Cybersecurity Certificate**  
+
+---
+
+## Projects
+
+### [Project Name Placeholder]  
+[Provide details about the project: what tools you used, the objective, and the outcomes.]
+
+### [Project Name Placeholder]  
+[Provide details about the project: what tools you used, the objective, and the outcomes.]
+
+---
 
  
+
