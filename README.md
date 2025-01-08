@@ -25,7 +25,8 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 ## Tools
 
 ### Network  
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Datadog&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+
 
 ### Endpoint  
 <img src="https://img.shields.io/badge/-OpenVAS-339933?&style=for-the-badge&logo=OpenVAS&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00979D?&style=for-the-badge&logo=Tenable&logoColor=white" /> 
