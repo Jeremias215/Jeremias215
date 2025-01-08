@@ -92,6 +92,32 @@ Outcomes:
 - Successfully simulated SQL injection attacks to gain insights into exploitation methods.
 - Identified key application vulnerabilities caused by weak input validation.
 - Developed recommendations for implementing secure coding practices to prevent SQL injection.
+___________________________________________________________________________________________________________________________________
+
+Project Name: UDP Packet Analysis with Wireshark
+
+Details:
+This project involved using Wireshark to capture and analyze UDP packets to understand how UDP headers and fields function within network communications.
+
+Tools Used:
+
+- Wireshark: For capturing and analyzing UDP packet data.
+- 
+Objective:
+- To study the structure of UDP packets, including header fields, payload length, and port numbers, and understand their role in network communication.
+
+Outcomes:
+
+- Identified and analyzed the four fields of the UDP header: source port, destination port, length, and checksum.
+- Determined the payload length and the relationship between source and destination ports in request-response communication.
+- Gained practical experience in using Wireshark for protocol analysis and interpreting network traffic.
+- This concise and clear description highlights the project’s focus and connects directly to relevant skills for networking and cybersecurity roles. Let me know if you'd like further refinements!
+
+
+
+
+
+
 
 
 ### [Project Name Placeholder]  
