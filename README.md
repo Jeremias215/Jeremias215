@@ -15,10 +15,10 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
 | [Creating a Live SOC / Honeynet in Azure   | (https://github.com/Jeremias215/Azure-SOC)     |
-| Threat Detection and Response              | [Project Name/Details Placeholder]             |
-| Network Traffic Analysis                   | [Project Name/Details Placeholder]             |
-| Vulnerability Scanning and Mitigation      | [Project Name/Details Placeholder]             |
-| Scripting and Automation for Threat Hunting| [Project Name/Details Placeholder]             |
+| Vulnerability Project                      | [Project Name/Details Placeholder]             |
+| SQL Injection Project                      | [Project Name/Details Placeholder]             |
+| Capstone Cybersecurity Project             | [Project Name/Details Placeholder]             |
+| SOC Automation Project                     | [Project Name/Details Placeholder]             |
 
 ---
 
