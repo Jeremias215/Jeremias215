@@ -17,7 +17,7 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 | [Creating a Live SOC / Honeynet in Azure   | (https://github.com/Jeremias215/Azure-SOC)     |
 | Vulnerability Management                   | (https://github.com/Jeremias215/VulnerabilityManagement)|
 | Web Application Security                   | (https://github.com/Jeremias215/SQL-Injection) |
-| Wireshark UDP Lab                          | (https://github.com/Jeremias215/UDP-Lab)       |
+| Network Traffic Analysis                   | (https://github.com/Jeremias215/UDP-Lab)       |
 | SOC Automation Project                     | [Project Name/Details Placeholder]             |
 
 ---
