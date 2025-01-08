@@ -25,23 +25,24 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 ## Tools
 
 ### Network  
-- Wireshark  
-- Nmap  
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Datadog&logoColor=white" />
 
 ### Endpoint  
-- OpenVAS  
-- Nessus  
+<img src="https://img.shields.io/badge/-OpenVAS-339933?&style=for-the-badge&logo=OpenVAS&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00979D?&style=for-the-badge&logo=Tenable&logoColor=white" /> 
 
 ### SIEM  
-- Splunk  
-- Microsoft Sentinel  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ---
 
 ## Certifications
-- **CompTIA Security+**  
-- **CompTIA Network+**  
-- **Google Cybersecurity Certificate**  
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 
 ---
 
