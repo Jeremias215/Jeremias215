@@ -49,7 +49,7 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 
 ## Projects
 
-[Kali Linux Vulnerability Management with OpenVAS]
+Project Name: [Kali Linux Vulnerability Management with OpenVAS]
 
 Objective:
 To identify and prioritize vulnerabilities on a Kali Linux system using OpenVAS (Greenbone Vulnerability Management) and demonstrate vulnerability management techniques.
@@ -71,6 +71,27 @@ Outcomes:
 - Identified high-severity vulnerabilities, increasing awareness of system weaknesses.
 - Learned to prioritize and address risks to improve system security.
 - Improved understanding of using OpenVAS for ongoing vulnerability management.
+___________________________________________________________________________________________________________________________________
+
+Project Name: SQL Injection Vulnerability Analysis
+
+Details:
+This project focused on understanding and analyzing SQL Injection vulnerabilities, a common web application security flaw. Using simulated scenarios, I explored how attackers exploit improper input validation to execute malicious SQL queries, gain unauthorized access, and extract sensitive data.
+
+Tools Used:
+
+- Kali Linux: For penetration testing and vulnerability analysis.
+- SQLmap: Automated tool for detecting and exploiting SQL injection vulnerabilities.
+- Burp Suite: For intercepting and manipulating web requests.
+  
+Objective:
+- To demonstrate how SQL injection attacks can compromise web application security and to identify mitigation strategies to prevent such exploits.
+
+Outcomes:
+
+- Successfully simulated SQL injection attacks to gain insights into exploitation methods.
+- Identified key application vulnerabilities caused by weak input validation.
+- Developed recommendations for implementing secure coding practices to prevent SQL injection.
 
 
 ### [Project Name Placeholder]  
