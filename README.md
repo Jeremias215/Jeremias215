@@ -15,7 +15,7 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
 | [Creating a Live SOC / Honeynet in Azure   | (https://github.com/Jeremias215/Azure-SOC)     |
-| Vulnerability Project                      | (https://github.com/Jeremias215/VulnerabilityManagement)            |
+| Vulnerability Management                   | (https://github.com/Jeremias215/VulnerabilityManagement)            |
 | SQL Injection Project                      | [Project Name/Details Placeholder]             |
 | Capstone Cybersecurity Project             | [Project Name/Details Placeholder]             |
 | SOC Automation Project                     | [Project Name/Details Placeholder]             |
@@ -49,8 +49,29 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 
 ## Projects
 
-### [Project Name Placeholder]  
-[Provide details about the project: what tools you used, the objective, and the outcomes.]
+[Kali Linux Vulnerability Management with OpenVAS]
+
+Objective:
+To identify and prioritize vulnerabilities on a Kali Linux system using OpenVAS (Greenbone Vulnerability Management) and demonstrate vulnerability management techniques.
+
+Tools Used:
+
+- Kali Linux: Operating system for vulnerability testing.
+- OpenVAS: Open-source vulnerability scanner for identifying and analyzing security flaws.
+
+Process:
+
+- Installed and configured OpenVAS on a Kali Linux VM.
+- Conducted a vulnerability scan targeting the Kali Linux system to identify weaknesses.
+- Analyzed the scan results, which included detailed summaries, severity levels, and recommended mitigations.
+- Implemented fixes for critical vulnerabilities based on OpenVAS findings.
+  
+Outcomes:
+
+- Identified high-severity vulnerabilities, increasing awareness of system weaknesses.
+- Learned to prioritize and address risks to improve system security.
+- Improved understanding of using OpenVAS for ongoing vulnerability management.
+
 
 ### [Project Name Placeholder]  
 [Provide details about the project: what tools you used, the objective, and the outcomes.]
