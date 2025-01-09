@@ -50,19 +50,21 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 ## Projects
 
 Project Name: Live SOC/Honeynet in Azure
+
 Details:
 In this project, I built a live SOC environment in Microsoft Azure, creating a honeynet to monitor and analyze security threats. Logs from various resources were ingested into a Log Analytics workspace and monitored using Microsoft Sentinel. Security metrics were measured in an unsecured environment, followed by the implementation of security controls to harden the setup.
 
 Tools Used:
 
-Microsoft Azure: Hosting the honeynet and associated resources.
-Log Analytics Workspace: Centralized log ingestion and analysis.
-Microsoft Sentinel: Alerting, incident creation, and threat detection.
+- Microsoft Azure: Hosting the honeynet and associated resources.
+- Log Analytics Workspace: Centralized log ingestion and analysis.
+- Microsoft Sentinel: Alerting, incident creation, and threat detection.
+
 Outcomes:
 
-Identified and analyzed attack patterns in a live environment.
-Successfully reduced security incidents and alerts by applying advanced security controls.
-Demonstrated the effectiveness of hardening techniques in minimizing exposure and risks.
+- Identified and analyzed attack patterns in a live environment.
+- Successfully reduced security incidents and alerts by applying advanced security controls.
+- Demonstrated the effectiveness of hardening techniques in minimizing exposure and risks.
 ___________________________________________________________________________________________________________________________________
 
 Project Name: [Kali Linux Vulnerability Management with OpenVAS]
