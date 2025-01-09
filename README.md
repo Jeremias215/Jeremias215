@@ -67,7 +67,7 @@ Outcomes:
 - Demonstrated the effectiveness of hardening techniques in minimizing exposure and risks.
 ___________________________________________________________________________________________________________________________________
 
-Project Name: [Kali Linux Vulnerability Management with OpenVAS]
+Project Name: Kali Linux Vulnerability Management with OpenVAS
 
 Objective:
 To identify and prioritize vulnerabilities on a Kali Linux system using OpenVAS (Greenbone Vulnerability Management) and demonstrate vulnerability management techniques.
