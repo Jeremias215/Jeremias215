@@ -18,7 +18,7 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 | Vulnerability Management                   | (https://github.com/Jeremias215/VulnerabilityManagement)|
 | Web Application Security                   | (https://github.com/Jeremias215/SQL-Injection) |
 | Network Traffic Analysis                   | (https://github.com/Jeremias215/UDP-Lab)       |
-| SOC Automation Project                     | [Project Name/Details Placeholder]             |
+| SOC Automation Project                     | (https://github.com/Jeremias215/SOC-AutomationProject)|
 
 ---
 
