@@ -18,7 +18,7 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 | Vulnerability Management                   | (https://github.com/Jeremias215/VulnerabilityManagement)|
 | Web Application Security                   | (https://github.com/Jeremias215/SQL-Injection) |
 | Network Traffic Analysis                   | (https://github.com/Jeremias215/UDP-Lab)       |
-| SOC Automation Project                     | (https://github.com/Jeremias215/SOC-AutomationProject)|
+| SOC Workflow Automation                    | (https://github.com/Jeremias215/SOC-AutomationProject)|
 
 ---
 
@@ -130,18 +130,30 @@ Outcomes:
 - Determined the payload length and the relationship between source and destination ports in request-response communication.
 - Gained practical experience in using Wireshark for protocol analysis and interpreting network traffic.
 - This concise and clear description highlights the project’s focus and connects directly to relevant skills for networking and cybersecurity roles. Let me know if you'd like further refinements!
+___________________________________________________________________________________________________________________________________
+
+Project Name: SOC Automation with Wazuh, Shuffle, and TheHive
+Details:
+This project demonstrates an automated SOC workflow implemented in a simulated Azure honeynet. Using Wazuh for log collection, Shuffle for workflow automation and alert enrichment, and TheHive for case management, the project automates the detection, response, and management of security incidents.
+
+Tools Used:
+
+Wazuh: Log collection and alert generation.
+Shuffle: Automating alert enrichment and responsive actions.
+TheHive: Case management and incident tracking.
+Objective:
+To build an efficient SOC workflow that reduces manual intervention, enhances threat detection, and evaluates the impact of security hardening measures.
+
+Outcomes:
+
+Successfully reduced security incidents by over 90% after implementing automation and security controls.
+Streamlined incident response with enriched alerts and automated workflows.
+Demonstrated the effectiveness of network hardening through measurable before-and-after metrics.
+
+___________________________________________________________________________________________________________________________________
 
 
 
-
-
-
-
-
-### [Project Name Placeholder]  
-[Provide details about the project: what tools you used, the objective, and the outcomes.]
-
----
-
+ 
  
 
