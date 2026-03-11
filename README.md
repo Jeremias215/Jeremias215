@@ -62,107 +62,107 @@ To contribute as a GRC analyst supporting enterprise risk management, vendor ris
 
 ## Projects
 
-Project Name: Live SOC/Honeynet in Azure
+Project 1: Enterprise Risk Register
 
-Details:
-In this project, I built a live SOC environment in Microsoft Azure, creating a honeynet to monitor and analyze security threats. Logs from various resources were ingested into a Log Analytics workspace and monitored using Microsoft Sentinel. Security metrics were measured in an unsecured environment, followed by the implementation of security controls to harden the setup.
+Description
 
-Tools Used:
+> This project demonstrates how cybersecurity risks can be identified, assessed, and documented using a formal enterprise risk register.
 
-- Microsoft Azure: Hosting the honeynet and associated resources.
-- Log Analytics Workspace: Centralized log ingestion and analysis.
-- Microsoft Sentinel: Alerting, incident creation, and threat detection.
+Includes
 
-Outcomes:
+Risk identification
+Risk likelihood and impact scoring
+Risk mitigation strategies
+Risk ownership and tracking
 
-- Identified and analyzed attack patterns in a live environment.
-- Successfully reduced security incidents and alerts by applying advanced security controls.
-- Demonstrated the effectiveness of hardening techniques in minimizing exposure and risks.
+Example Risks
+
+Cloud misconfiguration risk
+Vendor data exposure risk
+Weak access control risk
+Incident response readiness risk
+
+Outcome
+
+> Demonstrates how organizations prioritize cybersecurity risks and communicate them to leadership.
+
 ___________________________________________________________________________________________________________________________________
 
-Project Name: Kali Linux Vulnerability Management with OpenVAS
+Project 2: Vendor Risk Assessment
 
-Objective:
-To identify and prioritize vulnerabilities on a Kali Linux system using OpenVAS (Greenbone Vulnerability Management) and demonstrate vulnerability management techniques.
+Description
 
-Tools Used:
+> This project simulates the security evaluation of third-party vendors before they are approved to handle sensitive organizational data.
 
-- Kali Linux: Operating system for vulnerability testing.
-- OpenVAS: Open-source vulnerability scanner for identifying and analyzing security flaws.
+Includes
 
-Process:
+Vendor security questionnaire
+Security posture evaluation
+Risk rating of vendors
+Security recommendations
 
-- Installed and configured OpenVAS on a Kali Linux VM.
-- Conducted a vulnerability scan targeting the Kali Linux system to identify weaknesses.
-- Analyzed the scan results, which included detailed summaries, severity levels, and recommended mitigations.
-- Implemented fixes for critical vulnerabilities based on OpenVAS findings.
-  
-Outcomes:
+Example Review Areas
 
-- Identified high-severity vulnerabilities, increasing awareness of system weaknesses.
-- Learned to prioritize and address risks to improve system security.
-- Improved understanding of using OpenVAS for ongoing vulnerability management.
+Data protection controls
+Access management
+Encryption practices
+Incident response capability
+
+Outcome
+
+> Shows how organizations reduce third-party cybersecurity risk.
 ___________________________________________________________________________________________________________________________________
 
-Project Name: SQL Injection Vulnerability Analysis
+Project 3: SOC 2 Control Mapping
 
-Details:
-This project focused on understanding and analyzing SQL Injection vulnerabilities, a common web application security flaw. Using simulated scenarios, I explored how attackers exploit improper input validation to execute malicious SQL queries, gain unauthorized access, and extract sensitive data.
+Description
 
-Tools Used:
+> This project demonstrates how security policies and controls can be mapped to SOC 2 trust service criteria.
 
-- Kali Linux: For penetration testing and vulnerability analysis.
-- SQLmap: Automated tool for detecting and exploiting SQL injection vulnerabilities.
-- Burp Suite: For intercepting and manipulating web requests.
-  
-Objective:
-- To demonstrate how SQL injection attacks can compromise web application security and to identify mitigation strategies to prevent such exploits.
+Includes
 
-Outcomes:
+SOC 2 control mapping
+Evidence documentation examples
+Security control descriptions
+Compliance gap analysis
 
-- Successfully simulated SQL injection attacks to gain insights into exploitation methods.
-- Identified key application vulnerabilities caused by weak input validation.
-- Developed recommendations for implementing secure coding practices to prevent SQL injection.
+Outcome
+
+> Demonstrates how organizations prepare for SOC 2 compliance audits.
 ___________________________________________________________________________________________________________________________________
 
-Project Name: UDP Packet Analysis with Wireshark
+Project 4: Third Party Security Review
 
-Details:
-This project involved using Wireshark to capture and analyze UDP packets to understand how UDP headers and fields function within network communications.
+Description
 
-Tools Used:
+> This project evaluates the cybersecurity posture of a third-party service provider using risk-based evaluation methods.
 
-- Wireshark: For capturing and analyzing UDP packet data.
-- 
-Objective:
-- To study the structure of UDP packets, including header fields, payload length, and port numbers, and understand their role in network communication.
+Includes
 
-Outcomes:
+Vendor risk scoring
+Control review
+Security gaps identified
+Risk mitigation recommendations
 
-- Identified and analyzed the four fields of the UDP header: source port, destination port, length, and checksum.
-- Determined the payload length and the relationship between source and destination ports in request-response communication.
-- Gained practical experience in using Wireshark for protocol analysis and interpreting network traffic.
-- This concise and clear description highlights the project’s focus and connects directly to relevant skills for networking and cybersecurity roles. Let me know if you'd like further refinements!
 ___________________________________________________________________________________________________________________________________
 
-Project Name: SOC Automation with Wazuh, Shuffle, and TheHive
-Details:
-This project demonstrates an automated SOC workflow implemented in a simulated Azure honeynet. Using Wazuh for log collection, Shuffle for workflow automation and alert enrichment, and TheHive for case management, the project automates the detection, response, and management of security incidents.
+Project 5: Security Governance Framework
 
-Tools Used:
+Description
 
-Wazuh: Log collection and alert generation.
-Shuffle: Automating alert enrichment and responsive actions.
-TheHive: Case management and incident tracking.
-Objective:
-To build an efficient SOC workflow that reduces manual intervention, enhances threat detection, and evaluates the impact of security hardening measures.
+> This project demonstrates how organizations build internal security governance programs.
 
-Outcomes:
+Includes
 
-Successfully reduced security incidents by over 90% after implementing automation and security controls.
-Streamlined incident response with enriched alerts and automated workflows.
-Demonstrated the effectiveness of network hardening through measurable before-and-after metrics.
+Information security policy
+Access control policy
+Incident response policy
+Vendor security policy
+Risk management policy
 
+Outcome
+
+> Shows how governance structures support security and compliance.
 ___________________________________________________________________________________________________________________________________
 
 
