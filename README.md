@@ -1,12 +1,12 @@
 # Hello, I'm Jeremias
 <a href="https://linkedin.com/in/jeremias-medina-679274313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated cybersecurity enthusiast driven by a commitment to protecting digital assets and mitigating threats. With practical experience using tools like Splunk, Nessus, Wireshark, and OpenVAS, I have developed a strong technical foundation in threat detection, log analysis, and vulnerability management. I am eager to bring my skills and passion for problem-solving to a Security Operations Center (SOC) Analyst role, where I can contribute to safeguarding organizational systems and data.
+I focus on Governance, Risk, and Compliance (GRC) with experience analyzing cybersecurity risks, evaluating vendor security posture, and mapping security controls to frameworks like SOC 2 and ISO 27001. Through hands-on projects I have built risk registers, vendor security assessments, and control documentation used to support security governance and compliance readiness. My work focuses on translating technical security risks into business decisions so organizations can reduce exposure, meet regulatory requirements, and strengthen their security posture.
 
 ---
 
 ## Objective  
-To leverage my expertise in threat detection, incident response, and SOC workflows to secure a Tier 1 SOC Analyst position, contributing to a dynamic team while advancing my knowledge and skills in cybersecurity.
+To contribute as a GRC analyst supporting enterprise risk management, vendor risk assessments, and compliance programs such as SOC 2 and ISO 27001 while helping organizations understand and manage cybersecurity risk in business terms.
 
 ---
 
@@ -14,27 +14,31 @@ To leverage my expertise in threat detection, incident response, and SOC workflo
 
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
-| Cloud Security Monitoring                  | (https://github.com/Jeremias215/Azure-SOC)     |
-| Vulnerability Management                   | (https://github.com/Jeremias215/VulnerabilityManagement)|
-| Web Application Security                   | (https://github.com/Jeremias215/SQL-Injection) |
-| Network Traffic Analysis                   | (https://github.com/Jeremias215/UDP-Lab)       |
-| SOC Workflow Automation                    | (https://github.com/Jeremias215/SOC-AutomationProject)|
+| Enterprise Risk Assessment Enterprise Risk Register                 | ( )     |
+| Vendor Risk Management Vendor Security Review                   | ()|
+| Security Control Mapping SOC 2 Control Framework                   | () |
+| Third-Party Risk Analysis Vendor Risk Assessment                  | ( )       |
+| Compliance Documentation Governance & Policy Framework
+                 | ()|
 
 ---
 
 ## Tools
 
-### Network  
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Datadog&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+### GRC
 
+<img src="https://img.shields.io/badge/Risk_Register-Documentation-2E86C1?style=for-the-badge&logo=bookstack&logoColor=white" />
 
-### Endpoint  
-<img src="https://img.shields.io/badge/-OpenVAS-339933?&style=for-the-badge&logo=OpenVAS&logoColor=white" />  <img src="https://img.shields.io/badge/-Nessus-00979D?&style=for-the-badge&logo=Tenable&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Control_Framework-Mapping-5D6D7E?style=for-the-badge&logo=databricks&logoColor=white" />
 
-### SIEM  
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Vendor_Security-Questionnaires-1ABC9C?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Compliance-Evidence_Collection-884EA0?style=for-the-badge&logo=verizon&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Policy_%26_Governance-Documentation-CA6F1E?style=for-the-badge&logo=files&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Risk_Assessment-Methodology-C0392B?style=for-the-badge&logo=shield&logoColor=white" />
+
 
 ---
 
