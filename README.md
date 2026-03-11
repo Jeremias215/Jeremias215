@@ -69,20 +69,10 @@ Description
 > This project demonstrates how cybersecurity risks can be identified, assessed, and documented using a formal enterprise risk register.
 
 
-Includes
-
-Risk identification
-Risk likelihood and impact scoring
-Risk mitigation strategies
-Risk ownership and tracking
+Includes: Risk identification, Risk likelihood and impact scoring, Risk mitigation strategies, Risk ownership and tracking
 
 
-Example Risks
-
-Cloud misconfiguration risk
-Vendor data exposure risk
-Weak access control risk
-Incident response readiness risk
+Example Risks: Cloud misconfiguration risk, Vendor data exposure risk, Weak access control risk, Incident response readiness risk
 
 
 Outcome
@@ -98,20 +88,10 @@ Description
 > This project simulates the security evaluation of third-party vendors before they are approved to handle sensitive organizational data.
 
 
-Includes
-
-Vendor security questionnaire
-Security posture evaluation
-Risk rating of vendors
-Security recommendations
+Includes: Vendor security questionnaire, Security posture evaluation, Risk rating of vendors, Security recommendations
 
 
-Example Review Areas
-
-Data protection controls
-Access management
-Encryption practices
-Incident response capability
+Example Review Areas: Data protection controls, Access management, Encryption practices, Incident response capability
 
 
 Outcome
@@ -126,12 +106,7 @@ Description
 > This project demonstrates how security policies and controls can be mapped to SOC 2 trust service criteria.
 
 
-Includes
-
-SOC 2 control mapping
-Evidence documentation examples
-Security control descriptions
-Compliance gap analysis
+Includes: SOC 2 control mapping, Evidence documentation examples, Security control descriptions, Compliance gap analysis
 
 
 Outcome
@@ -146,12 +121,7 @@ Description
 > This project evaluates the cybersecurity posture of a third-party service provider using risk-based evaluation methods.
 
 
-Includes
-
-Vendor risk scoring
-Control review
-Security gaps identified
-Risk mitigation recommendations
+Includes: Vendor risk scoring, Control review, Security gaps identified, Risk mitigation recommendations
 
 ___________________________________________________________________________________________________________________________________
 
@@ -162,13 +132,7 @@ Description
 > This project demonstrates how organizations build internal security governance programs.
 
 
-Includes
-
-Information security policy
-Access control policy
-Incident response policy
-Vendor security policy
-Risk management policy
+Includes: Information security policy, Access control policy, Incident response policy, Vendor security policy, Risk management policy
 
 
 Outcome
