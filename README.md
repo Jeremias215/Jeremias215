@@ -39,6 +39,15 @@ To contribute as a GRC analyst supporting enterprise risk management, vendor ris
 
 <img src="https://img.shields.io/badge/Risk_Assessment-Methodology-C0392B?style=for-the-badge&logo=shield&logoColor=white" />
 
+### Frameworks
+
+<img src="https://img.shields.io/badge/NIST-CSF-blue?style=for-the-badge&logo=nist&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ISO-27001-green?style=for-the-badge&logo=iso&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SOC-2-purple?style=for-the-badge&logo=datadog&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CIS-Controls-orange?style=for-the-badge&logo=security&logoColor=white" />
 
 ---
 
