@@ -14,12 +14,12 @@ To contribute as a GRC analyst supporting enterprise risk management, vendor ris
 
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
-| Enterprise Risk Assessment Enterprise Risk Register                 | ( )     |
-| Vendor Risk Management Vendor Security Review                   | ()|
-| Security Control Mapping SOC 2 Control Framework                   | () |
-| Third-Party Risk Analysis Vendor Risk Assessment                  | ( )       |
-| Compliance Documentation Governance & Policy Framework
-                 | ()|
+| Enterprise Risk Assessment Enterprise Risk Register | In progress |
+| Vendor Risk Management Vendor Security Review | In progress |
+| Security Control Mapping SOC 2 Control Framework | In progress |
+| Third-Party Risk Analysis Vendor Risk Assessment | In progress |
+| Compliance Documentation Governance & Policy Framework | In progress |
+                
 
 ---
 
