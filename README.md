@@ -14,7 +14,7 @@ To continue developing practical cybersecurity skills while contributing to secu
 
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
-| Security Operations & Threat Detection | Azure-SOC |
+| Security Operations & Threat Detection | (https://github.com/Jeremias215/Azure-SOC) |
 | Vendor Risk Management Vendor Security Review | In progress |
 | Security Control Mapping SOC 2 Control Framework | In progress |
 | Third-Party Risk Analysis Vendor Risk Assessment | In progress |
