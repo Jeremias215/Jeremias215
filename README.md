@@ -84,22 +84,26 @@ To continue developing practical cybersecurity skills while contributing to secu
 
 ## Featured Projects
 
-Azure-SOC
+Azure SOC
 
 Built a cloud-based security operations lab in Microsoft Azure to monitor, investigate, and analyze security events using Microsoft Sentinel and Azure Log Analytics.
 
-SOC-AutomationProject
+
+SOC Automation Project
 
 Developed an automated incident response workflow using Wazuh, Shuffle, and TheHive to enrich alerts and streamline security investigations.
 
-UDP-Lab
+
+UDP Lab
 
 Used Wireshark to capture and analyze network traffic, examine packet structures, and understand communication behavior.
 
-SQL-Injection
+
+SQL Injection
 
 Explored SQL injection attacks in a controlled lab environment and implemented defensive techniques to better understand web application security.
 
-VulnerabilityManagement
+
+Vulnerability Management
 
 Conducted vulnerability assessments in Linux environments, documented findings, and developed remediation recommendations.
