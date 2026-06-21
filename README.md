@@ -87,22 +87,22 @@ To continue developing practical cybersecurity skills while contributing to secu
 Azure SOC
 
 Built a cloud-based security operations lab in Microsoft Azure to monitor, investigate, and analyze security events using Microsoft Sentinel and Azure Log Analytics.
-
+___________________________________________________________________________________________________________________
 
 SOC Automation Project
 
 Developed an automated incident response workflow using Wazuh, Shuffle, and TheHive to enrich alerts and streamline security investigations.
-
+___________________________________________________________________________________________________________________
 
 UDP Lab
 
 Used Wireshark to capture and analyze network traffic, examine packet structures, and understand communication behavior.
-
+___________________________________________________________________________________________________________________
 
 SQL Injection
 
 Explored SQL injection attacks in a controlled lab environment and implemented defensive techniques to better understand web application security.
-
+___________________________________________________________________________________________________________________
 
 Vulnerability Management
 
