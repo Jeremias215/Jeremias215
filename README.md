@@ -1,12 +1,12 @@
 # Hello, I'm Jeremias
 <a href="https://linkedin.com/in/jeremias-medina-679274313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I focus on Governance, Risk, and Compliance (GRC) with experience analyzing cybersecurity risks, evaluating vendor security posture, and mapping security controls to frameworks like SOC 2 and ISO 27001. Through hands-on projects I have built risk registers, vendor security assessments, and control documentation used to support security governance and compliance readiness. My work focuses on translating technical security risks into business decisions so organizations can reduce exposure, meet regulatory requirements, and strengthen their security posture.
+Information Security graduate with hands-on experience in security operations, threat detection, incident investigation, vulnerability management, and cloud security. Through cybersecurity labs and projects, I have worked with Microsoft Sentinel, Azure, Wazuh, TheHive, Shuffle, Wireshark, Linux, and vulnerability assessment tools.
 
 ---
 
 ## Objective  
-To contribute as a GRC analyst supporting enterprise risk management, vendor risk assessments, and compliance programs such as SOC 2 and ISO 27001 while helping organizations understand and manage cybersecurity risk in business terms.
+To continue developing practical cybersecurity skills while contributing to security monitoring, incident response, vulnerability management, and defensive security operations.
 
 ---
 
@@ -14,7 +14,7 @@ To contribute as a GRC analyst supporting enterprise risk management, vendor ris
 
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
-| Enterprise Risk Assessment Enterprise Risk Register | In progress |
+| Security Operations & Threat Detection | Azure-SOC |
 | Vendor Risk Management Vendor Security Review | In progress |
 | Security Control Mapping SOC 2 Control Framework | In progress |
 | Third-Party Risk Analysis Vendor Risk Assessment | In progress |
