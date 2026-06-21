@@ -6,7 +6,7 @@ Information Security graduate with hands-on experience in security operations, t
 ---
 
 ## Objective  
-To continue developing practical cybersecurity skills while contributing to security monitoring, incident response, vulnerability management, and defensive security operations.
+Seeking an opportunity to apply and expand my cybersecurity skills through hands-on security operations, incident response, threat detection, and vulnerability management.
 
 ---
 
