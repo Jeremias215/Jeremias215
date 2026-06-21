@@ -14,40 +14,62 @@ To continue developing practical cybersecurity skills while contributing to secu
 
 | **Skill**                                  | **Associated Project**                          |
 |--------------------------------------------|------------------------------------------------|
-| Security Operations & Threat Detection | (https://github.com/Jeremias215/Azure-SOC) |
-| Vendor Risk Management Vendor Security Review | In progress |
-| Security Control Mapping SOC 2 Control Framework | In progress |
-| Third-Party Risk Analysis Vendor Risk Assessment | In progress |
-| Compliance Documentation Governance & Policy Framework | In progress |
+| Security Operations & Threat Detection | https://github.com/Jeremias215/Azure-SOC |
+| Security Automation & Incident Response | https://github.com/Jeremias215/SOC-AutomationProject |
+| Network Traffic Analysis | https://github.com/Jeremias215/UDP-Lab |
+| Web Application Security | https://github.com/Jeremias215/SQL-Injection |
+| Vulnerability Management | https://github.com/Jeremias215/VulnerabilityManagement |
                 
 
 ---
 
 ## Tools
 
-### GRC
+### Security
 
-<img src="https://img.shields.io/badge/Risk_Register-Documentation-2E86C1?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Control_Framework-Mapping-5D6D7E?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Log_Analytics-Log_Analysis-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Vendor_Security-Questionnaires-1ABC9C?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-Security_Monitoring-026C9B?style=for-the-badge&logo=wazuh&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Compliance-Evidence_Collection-884EA0?style=for-the-badge&logo=verizon&logoColor=white" />
+<img src="https://img.shields.io/badge/TheHive-Incident_Response-FFB300?style=for-the-badge&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Policy_%26_Governance-Documentation-CA6F1E?style=for-the-badge&logo=files&logoColor=white" />
+<img src="https://img.shields.io/badge/Shuffle-SOAR-6A1B9A?style=for-the-badge&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Risk_Assessment-Methodology-C0392B?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
-### Frameworks
+### Cloud & Administration
 
-<img src="https://img.shields.io/badge/NIST-CSF-blue?style=for-the-badge&logo=nist&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ISO-27001-green?style=for-the-badge&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365-Administration-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 
-<img src="https://img.shields.io/badge/SOC-2-purple?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Workspace_Admin-Administration-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
 
-<img src="https://img.shields.io/badge/CIS-Controls-orange?style=for-the-badge&logo=security&logoColor=white" />
+### Operating Systems
+
+<img src="https://img.shields.io/badge/Windows_10%2F11-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/macOS-Operating_System-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ChromeOS-Administration-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+### Networking
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DNS-Network_Services-1E88E5?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DHCP-IP_Management-FF9800?style=for-the-badge&logo=internetcomputer&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VPN-Secure_Access-4CAF50?style=for-the-badge&logo=openvpn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Network_Troubleshooting-Diagnostics-607D8B?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 ---
 
@@ -60,117 +82,24 @@ To continue developing practical cybersecurity skills while contributing to secu
 
 ---
 
-## Projects
+## Featured Projects
 
-Project 1: Enterprise Risk Register
+Azure-SOC
 
-Description
+Built a cloud-based security operations lab in Microsoft Azure to monitor, investigate, and analyze security events using Microsoft Sentinel and Azure Log Analytics.
 
-> This project demonstrates how cybersecurity risks can be identified, assessed, and documented using a formal enterprise risk register.
+SOC-AutomationProject
 
+Developed an automated incident response workflow using Wazuh, Shuffle, and TheHive to enrich alerts and streamline security investigations.
 
-Includes: 
-- Risk identification
-- Risk likelihood and impact scoring
-- Risk mitigation strategies
-- Risk ownership and tracking
+UDP-Lab
 
+Used Wireshark to capture and analyze network traffic, examine packet structures, and understand communication behavior.
 
-Example Risks: 
-- Cloud misconfiguration risk
-- Vendor data exposure risk
-- Weak access control risk
-- Incident response readiness risk
+SQL-Injection
 
+Explored SQL injection attacks in a controlled lab environment and implemented defensive techniques to better understand web application security.
 
-Outcome
+VulnerabilityManagement
 
-> Demonstrates how organizations prioritize cybersecurity risks and communicate them to leadership.
-
-___________________________________________________________________________________________________________________________________
-
-Project 2: Vendor Risk Assessment
-
-Description
-
-> This project simulates the security evaluation of third-party vendors before they are approved to handle sensitive organizational data.
-
-
-Includes: 
-- Vendor security questionnaire
-- Security posture evaluation
-- Risk rating of vendors
-- Security recommendations
-
-
-Example Review Areas: 
-- Data protection controls
-- Access management
-- Encryption practices
-- Incident response capability
-
-
-Outcome
-
-> Shows how organizations reduce third-party cybersecurity risk.
-___________________________________________________________________________________________________________________________________
-
-Project 3: SOC 2 Control Mapping
-
-Description
-
-> This project demonstrates how security policies and controls can be mapped to SOC 2 trust service criteria.
-
-
-Includes: 
-- SOC 2 control mapping
-- Evidence documentation examples
-- Security control descriptions
-- Compliance gap analysis
-
-
-Outcome
-
-> Demonstrates how organizations prepare for SOC 2 compliance audits.
-___________________________________________________________________________________________________________________________________
-
-Project 4: Third Party Security Review
-
-Description
-
-> This project evaluates the cybersecurity posture of a third-party service provider using risk-based evaluation methods.
-
-
-Includes: 
-- Vendor risk scoring
-- Control review
-- Security gaps identified
-- Risk mitigation recommendations
-
-___________________________________________________________________________________________________________________________________
-
-Project 5: Security Governance Framework
-
-Description
-
-> This project demonstrates how organizations build internal security governance programs.
-
-
-Includes: 
-- Information security policy
-- Access control policy
-- Incident response policy
-- Vendor security policy
-- Risk management policy
-
-
-Outcome
-
-> Shows how governance structures support security and compliance.
-___________________________________________________________________________________________________________________________________
-
-
-
- 
- 
-
+Conducted vulnerability assessments in Linux environments, documented findings, and developed remediation recommendations.
